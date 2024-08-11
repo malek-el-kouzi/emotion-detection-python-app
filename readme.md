@@ -72,10 +72,6 @@ python manage.py runserver
 
 Your application should now be running at `http://127.0.0.1:8000/`.
 
-### Note
-
-When creating your private key using PuTTYgen, ensure you select "Save private key". The public key might have been mentioned by mistake.
-
 
 ## Acknowledgements
 
